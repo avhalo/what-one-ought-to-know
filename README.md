@@ -10,7 +10,7 @@ general
 This is the only field requiring own projects to get employed.
 
 - know about software development styles
-    agile
+    [agile](https://www.coursera.org/specializations/agile-development)
     waterfall
     kanban
     RADIT
@@ -29,6 +29,7 @@ It takes you from a day to a week to know the basics.
     configuration
     vim/emacs
     bash
+- [algorithms](https://www.coursera.org/specializations/data-structures-algorithms)
 - know the basics of computer architecture
  Binary/hexadecimal/decimal and konversion
  CPU logical functions
@@ -39,9 +40,13 @@ It takes you from a day to a week to know the basics.
  Motherboard
  Quantum computing
  Assembly
-- testing: unit, ...frameworks
+- [networks](https://www.coursera.org/specializations/networking-basics?) and [their security](https://www.coursera.org/specializations/computer-network-security)
+ - basics of cybersecurity and more [[1]](https://www.coursera.org/specializations/it-fundamentals-cybersecurity) [[2]]() [[]]()
+ - cryptocurrency and [its implications](https://www.coursera.org/learn/cryptocurrency)
+- [testing](https://www.edx.org/course/software-testing-management): unit, ...frameworks
 - basic algorithms like quicksort and Depth-first-search
 - optimization theory
+- [web and mobile](https://www.coursera.org/specializations/full-stack-react)
 - architecture knowledge on
 CQRS, MVC
 - follow technology
@@ -60,28 +65,29 @@ CQRS, MVC
     diss php and js for fun but still use them
     know your [licenses](https://opensource.org/licenses)
 - quite essential
-    create your own projects and [publish](https://github.com) them. Ideas are below in this [file](impossible-list)!
+    create your own projects and [publish](https://github.com) them. Ideas are below in this [file](https://github.com/avhalo/the-idea-base-for-everyone/blob/master/!imposssible-list.md)!
 Europe: Know your collective agreement. 
-
-For jobs see [linkedin](https://www.linkedin.com/jobs), (Monster)[https://www.monster.com/]
-[AI-jobs](https://ai-jobs.net/), indeed (https://fi.indeed.com/?r=us)[https://fi.indeed.com/?r=us]
+- read a [book](https://github.com/huihut/CS-Books) or [two](https://github.com/chenomg/CS_BOOKS)
+For jobs see [linkedin](https://www.linkedin.com/jobs), [Monster](https://www.monster.com/)
+[AI-jobs](https://ai-jobs.net/), indeed [https://fi.indeed.com/?r=us](https://fi.indeed.com/?r=us)
 
 Know at least one field mentioned below
 ### game development
 - knowledge of c/c++/C#/java
-- unity/unrealengine/mono/pygame
+- [unity](https://www.edx.org/course/cs50s-introduction-to-game-development)/unrealengine/mono/pygame
 - basic physics understanding/3D maths/voxel
 - knowledge on blender/autodesk 3ds mask
 
 You have created at least one game much bigger than atari breakout
 
 ### AI/ML
-- in-depth understanding of neural networks, deep learning, reinforcement learning
+- [in-depth understanding](https://www.coursera.org/degrees/msc-machine-learning-imperial) of neural networks, [deep learning](https://www.coursera.org/specializations/deep-learning)
 [convulational networks](https://medium.com/@RaghavPrabhu/understanding-of-convolutional-neural-network-cnn-deep-learning-99760835f148)
+ I am working on free material.
 - optimizers and projects thereof
 - python c/c++ 
 - perceptor
-- framework knowledge such as tensorflow, CAFFE, pytorch, scikit-Learn, CNTK, 
+- framework knowledge such as [tensorflow](https://www.coursera.org/learn/introduction-tensorflow), CAFFE, pytorch, scikit-Learn, CNTK, 
 [azure ml](https://studio.azureml.net/) Apache MLib
 - You think everyone knows these terms: hidden layer, pooling, softmax, crossentropy, confusion matrix,
 feature extraction, decision trees and the math behind them is easy for you
@@ -95,10 +101,23 @@ feature extraction, decision trees and the math behind them is easy for you
     Robotics
     Clustering
 
+ example:
+
+ Automotive computer vision&machine learning engineer Bosch
+-  2+ years of experience with Machine Learning e.g. DCNNs, R-CNNs, RNNs, decision trees, statistics/probability theory for various object detection methodologies
+·        Experience in Open Computer Vision (OpenCV) code, TensorFlow, Caffe, or related frameworks 
+·        Experience with other open source computer vision and linear algebra frameworks 
+·        Degree in Computer Engineering, Applied Mathematics, Physics or a related field
+·        Programming in C++/Python or other OOP programming language
+·        Strong multi-threading knowledge for different OS(Windows, Linux, RTOSs)
+·        Very good written and verbal English skills
+·        Ability to travel abroad
+
 (many require master or phd in cs/math) (see data scientist below too)
 ### web
-- html/CSS/Typescript
-- react/angular/vue
+- [html/CSS/Javascript](https://www.coursera.org/learn/html-css-javascript-for-web-developers)
+- less/typescript
+- [react/angular/vue](https://fullstackopen.com/en/)
 - azure/aws/gcp
 - graphql
 - django
@@ -111,12 +130,14 @@ backend:
 
 At least two sites up.
 ### cyber security
-- impelemnting virus, trojan, reverse-engineering, basics of cryptography
+- [basics](https://www.coursera.org/specializations/computer-security-systems-management) and [this](https://www.coursera.org/specializations/cyber-security)
+- impelemnting virus, trojan, reverse-engineering, basics of [cryptography](https://www.coursera.org/learn/crypto)
 - implementing clever bruteforcing for passwords
 - implementing logger
 - Excellent Kali knowledge: know your ddos service, social engineering
 - some tools such as: Nessus, AppDetective, Appscan, Netsparker, Burp or Netsparker
 - python/C/Bash/some of above web
+- attacks: side-channel attack, sql-injection, XSS OWASP top ten/ 
 - ISO OSI securities
 - Certifications:
 Security Clearance 
@@ -143,7 +164,7 @@ Bachelor’s degree in a major field of study, such as computer science, and two
 ### mobile
 Start by considering web applications and think reasons why you wouldn't implement it that
 way. One possibility is to use react-native which can be ported to mobile devices. For games see above
-- Java and Kotlin, Maven on androidstudio
+- Java and Kotlin, Maven on [androidstudio](https://www.coursera.org/specializations/android-app-development)
 - Swift
 - objective-c
 App made public in fdroid/google play/app store
@@ -151,7 +172,7 @@ App made public in fdroid/google play/app store
 
 ### other
 DevOps: git,jenkins,docker, terminal, kubernetes, Ansible
-Google Cloud Platform, Microsoft Azure, AWS
+[Google Cloud Platform](https://www.coursera.org/specializations/developing-apps-gcp), Microsoft Azure, [AWS](https://www.coursera.org/learn/aws-fundamentals-going-cloud-native?)(there are certificates too)
 
 Linux big data engineer posiition at G-Research:
 Linux OS core principles, performance and tuning
@@ -168,6 +189,7 @@ ALL REQUIRE GIT KNOWLEDGE! REPEAT AFTER ME: EXCELLENT KNOWLEDGE IN AT LEAST 1 LA
 
 ## other
 ### data scientist/analyst
+[basics](https://www.coursera.org/professional-certificates/ibm-data-science?utm_source=banners&utm_medium=coursera&utm_campaign=Mar2020-ibm-data-science&utm_content=logged-in) and [this](https://www.coursera.org/learn/introduction-tensorflow) and [data science](https://www.coursera.org/specializations/applied-data-science)
 Machine learning skills. Gain hands-on exposure to key technologies including R, SAS, Python, Tableau, Hadoop, and Spark, sql,scala,apache kafka, apache Mahout, spss, excel
 python: import math, scipy,numpy pandas,matplotlib
 
@@ -206,6 +228,7 @@ Supercell data scientist:
 - blender
 - autodesk: 3ds max, maya
 - cinema 4d
+- you are a good artist and do art for fun
 ### 
 - 
 
@@ -244,3 +267,7 @@ Supercell data scientist:
  - simple and overall economics
 - innovation:
     you are giving something new for the people
+
+
+
+Links to tutorials will be added
