@@ -6,7 +6,8 @@ There are links for tutorials and schools, some of which unfortunately require m
 This is something I would have wished when I was young and eager to learn.
 
 ## software engineering
-general
+if you don't know anything. See [this](https://www.khanacademy.org/computing/ap-computer-science-principles)
+## general
 This is the only field requiring own projects to get employed.
 
 - know about software development styles
