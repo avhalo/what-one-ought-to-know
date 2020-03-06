@@ -187,6 +187,17 @@ Middleware and messaging systems (e.g. Kafka, RabbitMQ, FTL, Ultra Messaging)
 
 ALL REQUIRE GIT KNOWLEDGE! REPEAT AFTER ME: EXCELLENT KNOWLEDGE IN AT LEAST 1 LANGUAGE
 
+Need inspiration even after doing your own projects?
+In US average salary is [$ 92,046/yr according to Monster](https://www.glassdoor.co.in/Salaries/us-software-engineer-salary-SRCH_IL.0,2_IN1_KO3,20.htm) or $7670 per month. According to indeed.com it is [$107,890](https://www.indeed.com/career/software-engineer/salaries). Payscale puts it at [$84,999](https://www.payscale.com/research/US/Job=Software_Engineer/Salary). the lowest decile according to payscale is $61 000 in a year and $5083/mo.
+
+In Finland it is [46,332€/yr](https://www.glassdoor.co.in/Salaries/helsinki-software-engineer-salary-SRCH_IL.0,8_IM1005_KO9,26.htm
+) or 3860€ per month. The lowest decile makes 3k€/mo. There healthcare is in taxes and avg tax-%
+is 40% for 50 000€ is aproximitely 30% for Helsinki Area. Companies are also required to follo [collective agreement](https://fi.wikipedia.org/wiki/Työehtosopimus)
+
+The median salary respectively is for USA $63,179 and for Finland it is some [2500€/month](http://www.stat.fi/til/pra/2016/pra_2016_2017-09-21_tie_001_en.html)
+
+You can achieve anything with programming skills. They will become essential education to primary school. Do Android apps, do websites and blogs, do kernel-debugging make an AI-system. Anything.
+
 ## other
 ### data scientist/analyst
 [basics](https://www.coursera.org/professional-certificates/ibm-data-science?utm_source=banners&utm_medium=coursera&utm_campaign=Mar2020-ibm-data-science&utm_content=logged-in) and [this](https://www.coursera.org/learn/introduction-tensorflow) and [data science](https://www.coursera.org/specializations/applied-data-science)
