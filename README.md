@@ -27,22 +27,22 @@ It takes you from a day to a week to know the basics.
 - know at least two libraries for them
     pyside2 react 
 - know your linux
-    use(d) distribution
-    terminal commands and piping
-    configuration
-    vim/emacs
+    use(d) distribution,
+    terminal commands and piping,
+    configuration,
+    vim/emacs,
     bash
 - [algorithms](https://www.coursera.org/specializations/data-structures-algorithms)
 - know the basics of computer architecture
- Binary/hexadecimal/decimal and konversion
- CPU logical functions
- GPU logical functions and why it is faster in some cases
- TPU functions
- RAM
- Hard disks and filesystems
- Motherboard
- Quantum computing
- Assembly
+    - Binary/hexadecimal/decimal and konversion
+    - CPU logical functions
+    - GPU logical functions and why it is faster in some cases
+    - TPU functions
+    - RAM
+    - Hard disks and filesystems
+    - Motherboard
+    - (some) Quantum computing
+    - (some) Assembly
 - [networks](https://www.coursera.org/specializations/networking-basics?) and [their security](https://www.coursera.org/specializations/computer-network-security)
  - basics of cybersecurity and more [[1]](https://www.coursera.org/specializations/it-fundamentals-cybersecurity) [[2]]() [[]]()
  - cryptocurrency and [its implications](https://www.coursera.org/learn/cryptocurrency)
@@ -97,12 +97,12 @@ feature extraction, decision trees and the math behind them is easy for you
 - optimization for hardware
 - robust statistics knowledge + bayesian modelling
 - knowledge for nosql databases such as hbase, cassandra, mongodb, hadoop,spark
-- projects in
-    Game intelligence
-    NLP
-    CV/openCV
-    Robotics
-    Clustering
+- projects in some or more
+   - Game intelligence
+   - NLP
+   - CV/openCV
+   - Robotics
+   - Clustering
 
  example:
 
