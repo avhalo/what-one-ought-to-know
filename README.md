@@ -118,20 +118,36 @@ feature extraction, decision trees and the math behind them is easy for you
 
 (many require master or phd in cs/math) (see data scientist below too)
 ### web
+Frontend:
 - [html/CSS/Javascript](https://www.coursera.org/learn/html-css-javascript-for-web-developers)
 - less/typescript
 - [react/angular/vue](https://fullstackopen.com/en/)
 - azure/aws/gcp
 - graphql
 - django
+- mind for graphics and visual appearance (UX)
+
+Eg. Ubisecure -- Frontend developer (summer)
+
+Independent programming skills in JavaScript (React, Angular or Vue.js) / Typescript, HTML and CSS
+Evidence to showcase your skills (e.g. hobby projects, work experience)
+Fluent skills in English
+
 backend: 
 - node.js/Go/DBs/Python/Ruby/Scala
 - Nginx or Apache knowledge
 - know the SSL/TLS
 - Linux server knowledge
-- 
 
-At least two sites up.
+e.g. Spotify USA -- Boston -- Backend Developer
+
+Backend Engineer w/ Spotify USA Inc. in Boston, MA. Utilize Puppet for automatically configuring servers, Nameless for automatic service discovery, Hermes router & Hermes broker for automatic load balancing & readability, Apollo framework for implementing business logic in the Java prog  language & Jupyter Notebook for performing data science tasks using the Python prog  language. This position reqs a Bach deg (US or foreign equiv) in Comp Sci, Electrical Engg or rel & 3 yrs of exp in the job offered or rel  role. Prior exp  must incl 3 yrs of exp  w/: cloud databases & maintaining them in production, performing zero downtime migrations & cross region replication; working in a CI/CD environment w/ Jenkins; monitoring service performance in production using SLAs & custom monitoring metrics; writing unit, integration & end-to-end tests; Docker containers; dvlpng REST APIs; maintaining & debugging backend services in production, being a part of an on-call rotation; Elasticsearch; Java; & Python. Prior exp  must incl 1 yr of exp  w/: working w/ Puppet & infrastructure-as-code; dvlpng data pipelines on Dataflow & Apache Beam; Google Cloud Platform; dvlpng voice interfaces; Google Cast protocol; Amazon Music Skill Kit & its rel AWS cloud tooling; & Scala. Qualified Applicants: Email resumes to usarecruiters@spotify.com &  ref  the job code TMMA
+
+For payment stuff, I don't know why there is something called "fullstack" because what?
+
+You're doing two people's expertise in one job.
+
+All:least two sites up.
 ### cyber security
 - [basics](https://www.coursera.org/specializations/computer-security-systems-management) and [this](https://www.coursera.org/specializations/cyber-security)
 - impelemnting virus, trojan, reverse-engineering, basics of [cryptography](https://www.coursera.org/learn/crypto)
@@ -187,6 +203,17 @@ Designing, running and troubleshooting Hadoop clusters
 Batch and streaming job frameworks (such as Spark, Storm)
 NoSQL databases (HBase, Cassandra, MongoDB)
 Middleware and messaging systems (e.g. Kafka, RabbitMQ, FTL, Ultra Messaging)
+
+#### Applied:
+* Bioinformatics (incl. chemistry)
+* Cognitive Science
+* Medicine
+* Soft sciences: NLP
+* Physics
+* Applied math
+* Just a note: every goddamned science and not-so-science (gender studies)
+
+# Note
 
 ALL REQUIRE GIT KNOWLEDGE! REPEAT AFTER ME: EXCELLENT KNOWLEDGE IN AT LEAST 1 LANGUAGE
 
