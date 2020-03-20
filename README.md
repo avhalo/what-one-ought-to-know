@@ -5,6 +5,8 @@ There are links for tutorials and schools, some of which unfortunately require m
 
 This is something I would have wished when I was young and eager to learn.
 
+For me, I am at uni/college now, I didn't know where to proceed. Today there are master's degrees in at least Coursera. I would have picked that one. In MOOCs and alike there are intense motivational problems, see [this](https://www.ft.com/content/60e90be2-1a77-11e9-b191-175523b59d1d). Now for college the thing is exactly the same. You're supposed do to your own research, own studies, have good grades and whatnot. If you do some $15000 master's degree online you have at least that monetary motivation but at your own pace. Just go for it. Do some work before and get that money. Some governments may not support online courses and not give student loans but hey, thing of the future!
+
 ## software engineering
 general
 This is the only field requiring own projects to get employed.
